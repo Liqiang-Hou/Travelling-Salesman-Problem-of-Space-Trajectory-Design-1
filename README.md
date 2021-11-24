@@ -1,4 +1,4 @@
-# ravelling-Salesman-Problem-of-Space-Trajectory-Design
+# Travelling-Salesman-Problem-of-Space-Trajectory-Design
  A conituous mapping technique is used to reformulate the mixed intger
 % TSP into a continuous optimization probelm. A set of continuous
 % paramteres, expected value and variance  of x and y to be traveled to the
